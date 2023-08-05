@@ -1,4 +1,5 @@
-<img  width="100%" src="![Git_background_wall](https://github.com/Mahakpashine9/Mahakpashine9/assets/114179154/fdf4e732-24c3-4512-a03d-9efb5e35eee2)
+<img  width="100%" src="![Git_background_wall](https://github.com/Mahakpashine9/Mahakpashine9/assets/114179154/5d995700-c030-4a98-ba63-8924da621ebd)
+
 "> 
 
 <img  width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

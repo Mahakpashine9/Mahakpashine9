@@ -5,11 +5,10 @@
  <p align="left">I am a self-motivated MERN stack Web developer 🤓 who loves to work in a challenging environment ✨. I am a quick learner and enjoy facing new challenges that test my skills and push me to think outside of the box. My passion for technology and problem-solving drives me to deliver high-quality and efficient solutions for my clients.💥.</p> 
 
 - I really enjoy learning🚀 new languages and frameworks like **React⚛ and Typescript**.<br/>
-- 🔭 I’m currently working on a fullstack app.<br/>
-- 👯 I’m looking to collaborate on **Back-End Projects**
+- 🔭 I’m currently working on a frontend Development and Problem solving skills.<br/>
 -  I love❤ to make **exciting projects**. <br/>
-- 💬 Expertise: HTML, CSS, JavaScript, React JS, Node JS, Data Structure, and Algorithm
-- 📫 Contact email: ganrajp036956@gmail.com
+- 💬 Expertise: HTML, CSS, JavaScript, React JS, Data Structure, and Algorithm
+- 📫 Contact email: mahakpashine9@gmail.com
 
 <p align="left"> 
   <img alt="C++" src="https://img.shields.io/badge/c++-%23ED8B00.svg?&style=for-the-badge&logo=C++&logoColor=red" />
@@ -27,20 +26,17 @@
 
 ## 🤝 Connect with me  
 <div align="center" >
- <a href="https://www.linkedin.com/in/ganraj21/" target="_blank">
+ <a href="https://www.linkedin.com/in/mahak-pashine-265829200" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://github.com/ganraj21" target="_blank">
+<a href="https://github.com/Mahakpashine9" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
- <a href="https://instagram.com/ganraj_21" target="_blank">
+ <a href="https://www.instagram.com/mahakpashine/" target="_blank">
    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="margin-bottom: 5px;"/>
  </a>
 
-<a href="https://twitter.com/ganraj_21" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
 </div>
  <hr/>
 <h3 align="center"> DON'T FORGET TO ⭐ THIS REPOSITORY !!!

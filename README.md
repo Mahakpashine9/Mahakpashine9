@@ -7,7 +7,7 @@
 - I really enjoy learning🚀 new languages and frameworks like **React⚛ and Typescript**.<br/>
 - 🔭 I’m currently working on a frontend Development and Problem solving skills.<br/>
 -  I love❤ to make **exciting projects**. <br/>
-- 💬 Expertise: HTML, CSS, JavaScript, React JS, Data Structure, and Algorithm
+- 💬 Expertise: HTML, CSS, JavaScript, React JS, Data Structure, and Algorithm, C++
 - 📫 Contact email: mahakpashine9@gmail.com
 
 <p align="left"> 

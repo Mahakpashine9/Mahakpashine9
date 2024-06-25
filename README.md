@@ -1,4 +1,4 @@
-![Git_background_wall]([https://github.com/Mahakpashine9/Mahakpashine9/assets/114179154/b2f9aaa1-434a-43eb-88b2-ef727bf89a61](https://www.canva.com/design/DAFqpdjGV3c/82bvV06yVQ9M0UpFadwSeg/view?utm_content=DAFqpdjGV3c&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
+https://www.canva.com/design/DAFqpdjGV3c/82bvV06yVQ9M0UpFadwSeg/view?utm_content=DAFqpdjGV3c&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 <img  width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

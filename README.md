@@ -33,19 +33,3 @@
 - 🏛️ Admitted to **VJTI Mumbai** for M.Tech in Internet of Things
 
 ---
-
-<div align="center">
-
-### 📊 GitHub & Problem Solving Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-</p>
-
----
-
-**Let's build something impactful together!**  
-Feel free to reach out via [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) or [Email](mailto:YOUR_EMAIL@example.com).
-
-</div>
